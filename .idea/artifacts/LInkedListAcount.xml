@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="LInkedListAcount">
+    <output-path>$PROJECT_DIR$/out/artifacts/LInkedListAcount</output-path>
+    <root id="root">
+      <element id="archive" name="LInkedListAcount.jar">
+        <element id="module-output" name="LInkedListAcount" />
+      </element>
+      <element id="artifact" artifact-name="LInkedListAcount:jar" />
+    </root>
+  </artifact>
+</component>
